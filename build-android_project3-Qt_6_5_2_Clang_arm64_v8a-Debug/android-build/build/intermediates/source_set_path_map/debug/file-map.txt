@@ -1,0 +1,9 @@
+org.qtproject.example.android_project3-java-0 D:\APP\QT\6.5.2\android_arm64_v8a\src\android\java\res
+org.qtproject.example.android_project3-pngs-1 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\generated\res\pngs\debug
+org.qtproject.example.android_project3-resValues-2 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\generated\res\resValues\debug
+org.qtproject.example.android_project3-rs-3 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\generated\res\rs\debug
+org.qtproject.example.android_project3-mergeDebugResources-4 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.qtproject.example.android_project3-mergeDebugResources-5 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.qtproject.example.android_project3-merged_res-6 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\build\intermediates\merged_res\debug
+org.qtproject.example.android_project3-android-build-7 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\res
+org.qtproject.example.android_project3-debug-8 E:\QT_workspace\android_project3\build-android_project3-Qt_6_5_2_Clang_arm64_v8a-Debug\android-build\src\debug\res
